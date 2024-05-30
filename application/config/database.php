@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '127.0.0.1',
+	'hostname' => 'db',
 	'username' => 'pengolahan_citra_user',
 	'password' => 'SecureP455wd',
 	'database' => 'pengolahan_citra_db',
