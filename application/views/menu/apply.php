@@ -19,13 +19,12 @@
                                 <!-- </div> -->
                             <!-- </div> -->
                         <!-- </div> -->
-                    </div>
-                    <div class="col-xl-5 container">
-                        <!-- Header text content-->
-                        <div class="text-center text-xl-start ">
-                            <div></div>
-                            <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start mb-3">
-                                <a class="btn btn-success btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="resume.html">Pilih File</a>
+                        <div class="col-xl-5 container">
+                            <!-- Header text content-->
+                            <div class="text-center text-xl-start ">
+                                <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start mb-3">
+                                    <a class="btn btn-success btn-lg px-5 py-3 me-sm-3 fs-6 fw-bolder" href="resume.html">Pilih File</a>
+                                </div>
                             </div>
                         </div>
                     </div>
